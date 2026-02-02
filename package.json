@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://huncho-bw.github.io/My-personel-finnance",
+ "homepage": "https://huncho-bw.github.io/My-personel-finnance/",
+
 
   "scripts": {
     "dev": "vite",
