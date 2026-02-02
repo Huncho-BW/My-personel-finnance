@@ -8,7 +8,6 @@ import Delete from "../Components/delete";
 
 const routeConfig = {
   main: [
-    // ❌ REMOVE "/" — index route already handles Overview
     { path: "transaction", element: <Transaction /> },
     { path: "budget", element: <Budget /> },
     { path: "pots", element: <Pots /> },
